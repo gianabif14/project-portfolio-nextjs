@@ -34,7 +34,7 @@ export default function HeroSection() {
 
         {/* Description */}
         <p className="text-gray-300 text-base sm:text-lg lg:text-xl max-w-3xl mx-auto mb-8 leading-relaxed">
-          I&rsquo;m an Informatics undergraduate at UPN, currently studying Web Development. I&rsquo;ve been trying out HTML5, CSS, JavaScript, and recently, I&rsquo;ve also been learning NextJS.
+          I&rsquo;m an Informatics undergraduate at UPNVY, currently studying Web Development. I&rsquo;ve been trying out HTML5, CSS, JavaScript, and recently, I&rsquo;ve also been learning NextJS.
         </p>
 
         {/* CTA Buttons */}
