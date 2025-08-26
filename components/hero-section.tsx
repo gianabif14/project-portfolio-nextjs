@@ -26,7 +26,7 @@ export default function HeroSection() {
         <h1 className="text-3xl sm:text-4xl lg:text-6xl font-bold mb-6 leading-tight">
           Hi <span className="italic">visitors</span>,
           <br />
-          I'm{" "}
+          I&rsquo;m{" "}
           <span className="bg-gradient-to-r from-orange-400 via-pink-500 to-purple-600 bg-clip-text text-transparent">
             Gian!
           </span>
@@ -34,7 +34,7 @@ export default function HeroSection() {
 
         {/* Description */}
         <p className="text-gray-300 text-base sm:text-lg lg:text-xl max-w-3xl mx-auto mb-8 leading-relaxed">
-          I'm an Informatics undergraduate at UPN, currently studying Web Development. I've been trying out HTML5, CSS, JavaScript, and recently, I've also been learning NextJS.
+          I&rsquo;m an Informatics undergraduate at UPN, currently studying Web Development. I&rsquo;ve been trying out HTML5, CSS, JavaScript, and recently, I&rsquo;ve also been learning NextJS.
         </p>
 
         {/* CTA Buttons */}
